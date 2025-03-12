@@ -17,7 +17,7 @@ This repository is a collection of C# programming assignments completed during t
 ## How to Use
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/[YourUsername]/ICC-CSharp-Lab-Assignments.git
+   git clone https://github.com/mustafa7egazi/ICC-CSharp-Lab-Assignments.git
    ```
 2. Open the desired daily folder (e.g., `Day02`).
 3. Open the `.sln` file in Visual Studio.

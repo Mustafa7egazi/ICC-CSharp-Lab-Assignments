@@ -12,9 +12,24 @@ This repository is a collection of C# programming assignments completed during t
 ## Tools Used
 - **Language**: C#  
 - **IDE**: Visual Studio (latest version)  
-- **Framework**: .NET (specify version if applicable, e.g., .NET 6 or .NET 8)
+- **Framework**: .NET (.NET 8)
 
 ## How to Use
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/mustafa7egazi/ICC-CSharp-Lab-Assignments.git
+   git clone https://github.com/[YourUsername]/ICC-CSharp-Lab-Assignments.git
+   ```
+2. Open the desired daily folder (e.g., `Day02`).
+3. Open the `.sln` file in Visual Studio.
+4. Build and run the solution to see the output.
+
+**Note**: The code is divided into regions with comments for better organization and readability. If you want to run a specific region, make sure to uncomment that region first in the `.cs` files before running the solution.
+
+## Contributions
+This is a personal project for learning purposes as part of my ITI training. Feel free to explore the code, but contributions are not expected at this time.
+
+## Contact
+If you have any questions or suggestions, feel free to reach out to me at [mustafareda3210@gmail.com].
+
+Happy coding! 🚀
+
